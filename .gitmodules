@@ -1,0 +1,6 @@
+[submodule "mraa"]
+	path = mraa
+	url = https://github.com/Pillar1989/mraa
+[submodule "upm"]
+	path = upm
+	url = https://github.com/Pillar1989/upm
